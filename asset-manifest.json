@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/landing-page-data-science/static/css/main.0febfc2c.css",
+    "main.js": "/landing-page-data-science/static/js/main.f11dd3f6.js",
+    "static/media/Untitled-1.jpg": "/landing-page-data-science/static/media/Untitled-1.3145181007b4a07fa10e.jpg",
+    "static/media/Untitled-2.jpg": "/landing-page-data-science/static/media/Untitled-2.ccc91dccec7a5c1b6ea9.jpg",
+    "static/media/deloitte-logo-0.png": "/landing-page-data-science/static/media/deloitte-logo-0.cc986f8e8b009abc1363.png",
+    "static/media/depoimento3.jpg": "/landing-page-data-science/static/media/depoimento3.446ef770bc25268a4ac0.jpg",
+    "static/media/depoimento2.jpg": "/landing-page-data-science/static/media/depoimento2.ddf8b6753ea84a4dacc8.jpg",
+    "static/media/depoimento4.jpg": "/landing-page-data-science/static/media/depoimento4.92a7be246d7c76e0485c.jpg",
+    "static/media/JustRight.png": "/landing-page-data-science/static/media/JustRight.05b12ee2872932064b4d.png",
+    "static/media/depoimento1.jpg": "/landing-page-data-science/static/media/depoimento1.8343be52799cebfafb0f.jpg",
+    "static/media/JustRight-color.png": "/landing-page-data-science/static/media/JustRight-color.851de624a95eb947d8a1.png",
+    "static/media/paypal.png": "/landing-page-data-science/static/media/paypal.ec3cc1a8e984df84cdd7.png",
+    "static/media/logo-nestle-1024.png": "/landing-page-data-science/static/media/logo-nestle-1024.672881b5c03328eab3f1.png",
+    "index.html": "/landing-page-data-science/index.html",
+    "main.0febfc2c.css.map": "/landing-page-data-science/static/css/main.0febfc2c.css.map",
+    "main.f11dd3f6.js.map": "/landing-page-data-science/static/js/main.f11dd3f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0febfc2c.css",
+    "static/js/main.f11dd3f6.js"
+  ]
+}
